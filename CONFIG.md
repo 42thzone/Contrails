@@ -9,7 +9,7 @@ genshin-jp
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-原神(ja)
+原神-JP
 
 # description
 
